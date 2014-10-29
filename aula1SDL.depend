@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1411192528 source:c:\users\maria de lourdes\dropbox\shared - pedro e luiz\pi\aula2sdlv2\eventosdl.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<SDL/SDL_gfxPrimitives.h>
+
+1411488127 source:c:\users\maria de lourdes\dropbox\inovapps\pi\aula2sdlv2\eventosdl.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<SDL/SDL_gfxPrimitives.h>
+
+1411490181 source:d:\dropbox\inovapps\pi\aula2sdlv2\eventosdl.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<SDL/SDL_gfxPrimitives.h>
+
+1413934269 source:z:\aula2sdlv2\eventosdl.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<SDL/SDL_gfxPrimitives.h>
+
