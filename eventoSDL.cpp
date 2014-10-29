@@ -157,8 +157,8 @@ void fisicaParabola(double *x, double *y){
     double a1 =	0.428787878787942;
     double a2 =	-1.56534090909095;
     double a3 =	0.438210227272737;
-    double a4 =	-0.0433238636363646;
     double a5 =	0.0014322916666667;
+    double a4 =	-0.0433238636363646;
     if(*x<=12){
         *x = *x + 0.1;
     }
