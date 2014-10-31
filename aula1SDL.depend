@@ -27,3 +27,10 @@
 	<math.h>
 	<SDL/SDL_gfxPrimitives.h>
 
+1414714042 source:z:\navinha\eventosdl.cpp
+	<SDL/SDL.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<SDL/SDL_gfxPrimitives.h>
+
