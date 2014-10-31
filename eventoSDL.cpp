@@ -241,7 +241,6 @@ int main(int arg, char **args){
 
         // desenha Alvo na tela
         int pos_alvo = jan_A-alvo_Y;
-        //teste
         //filledCircleColor(screen, alvo_X, pos_alvo, alvo_raio, 0xFFFFFFFF);
         //filledCircleColor(screen, alvo_X, pos_alvo, alvo_raio/4*3, 0xFF0000FF);
         //filledCircleColor(screen, alvo_X, pos_alvo, alvo_raio/2, 0xFFFFFFFF);
