@@ -16,6 +16,7 @@
 				</Compiler>
 				<Linker>
 					<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_gfx -lSDL_ttf" />
+					<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\SDL2_image.lib" />
 				</Linker>
 			</Target>
 			<Target title="Release">
